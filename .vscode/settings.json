@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "../odoo-18-core"
+    ],
+    "python.defaultInterpreterPath": "python3"
+}
